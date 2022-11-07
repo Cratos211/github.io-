@@ -1,0 +1,72 @@
+header{
+
+  display: flex;
+
+  justify-content: center;
+
+}
+
+body{
+
+  background-image: url(5ba74c0f-f774-45e8-a1e0-61a4e6f957a7.jpeg);
+
+  height: 100%;
+
+  object-position: cover;
+
+  background-repeat: no-repeat;
+
+  
+
+}
+
+div{
+
+  text-align: center;
+
+}
+
+div img {
+
+  width: 200px;
+
+  border:1px solid black;
+
+}
+
+div h1 {
+
+  color:red;
+
+  font-size: 20px;
+
+}
+
+main{
+
+  display: flex;
+
+  justify-content: center;
+
+  border:1px solid gray;
+
+  height: 400px;
+
+  
+
+}
+
+main div {
+
+  border: 1px solid black;
+
+}
+
+.img{
+
+  height:300px;
+
+  object-fit: cover;
+
+}
+
